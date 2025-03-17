@@ -1,5 +1,5 @@
 - 👋 Hi, I'm @ParisaSharifpour
-- 👩‍💻 Business Analyst at Canadian Tire Corporation with experience in:
+- 👩‍💻 Business Analyst with experience in:
     - Product Management, Business Analysis, and Data Analytics
     - Domains: SaaS, e-commerce, and supply chain
     - Using data to solve business challenges and optimize processes
